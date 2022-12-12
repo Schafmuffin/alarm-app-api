@@ -74,5 +74,81 @@
   {
     "title": "2. Weihnachtstag",
     "date": "2022-12-26"
-  }
+  },
+  {
+	"title": "Neujahr",
+	"date": "2023-01-01"
+  },
+  {
+	"title": "Heilige drei Koenige",
+	"date": "2023-01-06"
+  },
+  {
+	"title": "Internationaler Frauentag",
+	"date": "2023-03-08"
+  },
+  {
+	"title": "Karfreitag",
+	"date": "2023-04-15"
+  },
+  {
+	"title": "Ostersonntag",
+	"date": "2023-04-17"
+  },
+  {
+	"title": "Ostermontag",
+	"date": "2023-04-18"
+  },
+  {
+	"title": "Tag der Arbeit",
+	"date": "2023-05-01"
+  },
+  {
+	"title": "Christi Himmelfahrt",
+	"date": "2023-05-26"
+  },
+  {
+	"title": "Pfingstsonntag",
+	"date": "2023-06-05"
+  },
+  {
+	"title": "Pfingstmontag",
+	"date": "2023-06-06"
+  },
+  {
+	"title": "Fronleichnam",
+	"date": "2023-06-16"
+  },
+  {
+	"title": "Maria Himmelfahrt",
+	"date": "2023-08-15"
+  },
+  {
+	"title": "Weltkindertag",
+	"date": "2023-09-20"
+  },
+  {
+	"title": "Tag der deutschen Einheit",
+	"date": "2023-10-03"
+  },
+  {
+	"title": "Reformationstag",
+	"date": "2023-10-31"
+  },
+  {
+	"title": "Allerheiligen",
+	"date": "2023-11-01"
+  },
+  {
+	"title": "Buss- und Bettag",
+	"date": "2023-11-16"
+  },
+  {
+	"title": "1. Weihnachtstag",
+	"date": "2023-12-25"
+  },
+  {
+	"title": "2. Weihnachtstag",
+	"date": "2023-12-26"
+  },
 ]
